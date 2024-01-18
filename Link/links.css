@@ -1,0 +1,13 @@
+body{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: darkcyan;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+
+.background-text{
+    background-color: #FFFFFF;
+    padding: 10px;
+    border-radius: 10px;
+}
