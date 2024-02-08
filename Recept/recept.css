@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://img.reintech.io/variants/s2odbtfbi1vnj0v0lpk08uk9n9fl/e7b4ce09c703210ab8f75b017c7eaf0951c5a95b737ee8120602845c1c1d944b");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0px -90px;
+    display:flex;
+    flex-direction: column; 
+    align-items: center;
+    
+}
+
+.main {
+    background: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
